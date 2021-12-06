@@ -2,7 +2,9 @@
 
 ## numpy/matplotlibを使った直線当てはめ及び多項式回帰
 
-上の[open colaboratory]ボタンを押すと、Google colaboratoryでオープンし、実行することができます。その場合自分のColaboratoryかGoogle Driveにコピーを保存しておかないとタブを消去したら消えてしまいますので注意してください。
+<a href="https://colab.research.google.com/github/NobutakaShimada/sensing-lecture/blob/main/sensing2021.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+上の<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>ボタンを押すと、Google colaboratoryでオープンし、実行することができます。その場合自分のColaboratoryかGoogle Driveにコピーを保存しておかないとタブを消去したら消えてしまいますので注意してください。
 
 
 
