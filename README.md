@@ -12,6 +12,8 @@
 
 [補足読み物](%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0%E5%B7%A5%E5%AD%A6%E7%B7%9A%E5%BD%A2%E5%BD%93%E3%81%A6%E3%81%AF%E3%82%81.pdf?raw=true)
 
+[第１１回授業補足スライド](slides.pdf?raw=true)
+
 <img src="graph.png">
 
 
